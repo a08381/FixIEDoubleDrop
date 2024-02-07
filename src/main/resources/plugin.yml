@@ -1,0 +1,4 @@
+name: FixIEDoubleDrop
+version: '${project.version}'
+main: top.shadniw.fixiedoubledrop.Main
+
